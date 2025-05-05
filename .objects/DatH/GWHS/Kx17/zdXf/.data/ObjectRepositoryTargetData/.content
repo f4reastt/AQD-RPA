@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RoVJr7RbvU2P1Skb4JX4qA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/home.aspx" CVScreenId="9ce07ca9-5c7c-4cae-b133-b1008fc75264" CvElementArea="1285, 369, 161, 25" CvType="InputBox" DesignTimeRectangle="1287, 371, 159, 22" DesignTimeScaleFactor="1" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl id='txtPassword' tag='INPUT' type='password' class='' aaname='' /&gt;" Guid="ca3e7d58-44ef-4fa7-8ee0-4c0d9521ffd7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='AQD - Active Issues Manager (AIM)' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9ce07ca9-5c7c-4cae-b133-b1008fc75264" CvTextArea="1186, 371, 48, 11" CvTextArgument="Password" CvType="Text" DesignTimeRectangle="1187, 371, 100, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Password' tag='LABEL' type='' class='' check:innerText='Password' /&gt;" Guid="0e0198b6-439d-47be-86eb-90b08e69a1b4" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e4b2b06c0f9e64ee58c210c29961d6b1.png" xmlns="">0Vc9AVaOFg0SIB39Uhct38g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

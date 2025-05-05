@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zsro2qAHSk23YGebOEZgvg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/home.aspx" CVScreenId="9ce07ca9-5c7c-4cae-b133-b1008fc75264" CvElementArea="1285, 344, 162, 24" CvType="InputBox" DesignTimeRectangle="1287, 345, 159, 22" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='txtUsername' tag='INPUT' type='text' class='' aaname='' /&gt;" Guid="0534a975-eb9c-4ef9-8c7b-dcbfbf95823e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='AQD - Active Issues Manager (AIM)' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9ce07ca9-5c7c-4cae-b133-b1008fc75264" CvTextArea="1186, 345, 51, 11" CvTextArgument="Username" CvType="Text" DesignTimeRectangle="1187, 345, 100, 14" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Username ' check:innerText='Username' /&gt;" Guid="7b5cbdfc-d998-4137-955b-e84339f79f08" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ce759b9023382c867254aa8487bc3fbe.png" xmlns="">08VWi4LFzVUeLFXWnWGd-9A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

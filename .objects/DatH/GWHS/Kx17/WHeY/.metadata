@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Safety",
+  "Type": "Element",
+  "Id": "WHeYbYJirEiRhMIORrj-YA",
+  "Reference": "Kn5SkDv2W06q8nt4BnzA8w/WHeYbYJirEiRhMIORrj-YA",
+  "ParentRef": "Kn5SkDv2W06q8nt4BnzA8w/Kx17-QBcNkqQHvlhoDETUA",
+  "Created": "2025-04-16T04:28:03.279418Z",
+  "Updated": "2025-04-16T04:28:03.279418Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

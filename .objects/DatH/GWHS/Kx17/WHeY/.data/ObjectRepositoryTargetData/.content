@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZBcEn4GoZkOLOOhrjVe-EA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/Home.aspx/PortalHome" CVScreenId="5f466ad8-836c-4cc1-b45c-faa2efb94046" CvElementArea="681, 200, 100, 21" CvTextArea="691, 206, 33, 13" CvTextArgument="Safety" CvType="Button" DesignTimeRectangle="683, 202, 96, 22" DesignTimeScaleFactor="1" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl id='menuItem9909268167385846000' tag='LI' type='' class='jqx-item jqx-item-rrsmsQuicklinks jqx-menu-item-top jqx-menu-item-top-rrsmsQuicklinks jqx-rc-all jqx-rc-all-rrsmsQuicklinks' aaname='' check:innerText='Safety' /&gt;" Guid="67e4b3f4-33f9-4a65-a977-311c7b24baf5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='AQD - Active Issues Manager (AIM)' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5f466ad8-836c-4cc1-b45c-faa2efb94046" CvTextArea="644, 153, 127, 19" CvTextArgument="SMS Solution" CvType="Text" DesignTimeRectangle="633, 145, 151, 44" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl class='smsSolution' parentid='layoutAreaHeader' tag='IMG' type='' aaname='' /&gt;" Guid="80cc26dc-1e30-49d4-bae8-cfdef8c4c27e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bf7ab5e7c186ba321b45941d5645173d.png" xmlns="">0Rez-Ug9nV0mjjqfNubAsuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
