@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GaXt2dTPw0ujxxN4mQzgJA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="4da6641e-b782-4c49-8165-14cecdc5e754" CvElementArea="576, 450, 146, 24" CvType="InputBox" DesignTimeRectangle="577, 451, 144, 22" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='qform.35875' tag='INPUT' type='text' class='' aaname='' /&gt;" Guid="3d5b1916-d077-4c1b-aeb3-a0e8b2b7bbc8" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - O2799-25: HZDAVS' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4da6641e-b782-4c49-8165-14cecdc5e754" CvTextArea="482, 455, 29, 11" CvTextArgument="Name" CvType="Text" DesignTimeRectangle="483, 455, 28, 12" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' &amp;#x9;Name' type='' tag='SPAN' class='' check:innerText='Name' /&gt;" Guid="00947c36-553d-4ac5-ae6f-e00259d477d3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="110c60a35c4accbeede86b6f5dba5390.png" xmlns="">0lPkjdIlVKUOm7cc6Sei0gQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

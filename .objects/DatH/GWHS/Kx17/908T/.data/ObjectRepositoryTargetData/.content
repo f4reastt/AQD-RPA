@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9-C3PcNQFUSh9yxwzU79dQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="372f4904-a2de-407c-b211-cf0331f0e5e0" CvElementArea="674, 200, 100, 21" CvTextArea="683, 206, 33, 13" CvTextArgument="Safety" CvType="Button" DesignTimeRectangle="676, 202, 96, 22" DesignTimeScaleFactor="1" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl id='menuItem9905188377960000000' tag='LI' type='' class='jqx-item jqx-item-rrsmsQuicklinks jqx-menu-item-top jqx-menu-item-top-rrsmsQuicklinks jqx-rc-all jqx-rc-all-rrsmsQuicklinks' aaname='' check:innerText='Safety' /&gt;" Guid="a6abea82-9026-4363-ba3e-5db223a276c9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - O19173-24: CAB' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="372f4904-a2de-407c-b211-cf0331f0e5e0" CvTextArea="636, 153, 127, 19" CvTextArgument="SMS Solution" CvType="Text" DesignTimeRectangle="625, 145, 151, 44" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl class='smsSolution' parentid='layoutAreaHeader' tag='IMG' type='' aaname='' /&gt;" Guid="e8749d6b-d752-4dfa-b959-13fb1026733a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ad3f47d1ac0439f82a95126f1fc07d46.png" xmlns="">0c3o6_chzBU-CoQ17_f0dTA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

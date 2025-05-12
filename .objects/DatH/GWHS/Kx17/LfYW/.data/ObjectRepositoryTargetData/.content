@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gQFCvfo61U6hpogJ_ma3yA" Reference="Kn5SkDv2W06q8nt4BnzA8w/LfYW1v3at0OGeF4TjfJ1nQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="070fe1e6-8418-4e2a-831d-68e21e873448" CvElementArea="601, 401, 82, 23" CvTextArea="603, 405, 77, 13" CvTextArgument="Attachments" CvType="Button" DesignTimeRectangle="1057, 390, 83, 24" DesignTimeScaleFactor="1" ElementType="Text" Guid="83bb6934-6453-4bb9-addb-54c6626d27d6" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - *' /&gt;" SearchSteps="CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="70d48d05318cc995d5f1a71a83b196a2.png" xmlns="">03ExDptRAQ0-E-TrB2RmNmA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

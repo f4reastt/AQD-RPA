@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8k-D_5B2WkecQDhmMeG-iA" Reference="Kn5SkDv2W06q8nt4BnzA8w/TGrqZpfDCky_cONta6QK8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="cdd38181-36a8-471a-8a81-f2e27ef63e25" DesignTimeRectangle="493, 945, 144, 17" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl id='PanelTitle_linkedOccurrencePanelCollapse' tag='SPAN' aaname='Linked Occurrences (0)' /&gt;" Guid="8608971e-68f8-4f95-9aa9-d5efe64cad60" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - *: CAB' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8992afe20400c76078e0d660695a876d.png" xmlns="">0g3J7Aeu0QEKO5umu4t_EkA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

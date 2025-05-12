@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YUIfuKriWUuMGRf2ywg4JA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="1b5501ba-8c00-42d4-85cd-9309f2a5c2f5" CvElementArea="691, 409, 17, 17" CvTextArea="708, 415, 70, 12" CvTextArgument="Seat Belt Sign" CvType="CheckBox" DesignTimeRectangle="690, 411, 109, 17" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl parentid='tab-0' tag='DIV' type='' class='' aaname='   ' check:innerText='Seat Belt Sign' /&gt;" Guid="e529e89a-1f06-4538-b256-c2b20460aeeb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - O19173-24: CAB' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="35ac1106cb2343795a67f0d85656aa4d.png" xmlns="">0bHXz1Z20JUCOOyOiMnzFoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

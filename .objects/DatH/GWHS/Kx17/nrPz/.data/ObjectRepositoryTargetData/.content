@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jBChZI4LFEmXl04GwWfojw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="2ee2743c-1b73-4b0a-a633-8d641162fafa" CvElementArea="1116, 989, 26, 27" CvType="ArrowButton" DesignTimeRectangle="1121, 994, 16, 16" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='Collapsing_SectionlogsPanelCollapseCollapseButton' tag='SPAN' type='' class='ui-icon ui-icon-triangle-2-s' aaname='close' check:innerText='close' /&gt;" Guid="f4ee0a55-0fc1-4872-bc95-513e564a47a3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - O2799-25: HZDAVS' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2ee2743c-1b73-4b0a-a633-8d641162fafa" CvElementArea="1095, 990, 23, 24" CvTextArea="1102, 996, 10, 13" CvTextArgument="?" CvType="Button" DesignTimeRectangle="1099, 994, 16, 16" FuzzySelectorArgument="&lt;webctrl parentid='Collapsing_SectionlogsPanelCollapse' tag='A' type='' class='ui-icon ui-icon-help2' aaname='' /&gt;" Guid="63a95072-8c16-4c26-a5fd-90c82532f09a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="22fc1152de6e4d14d7292acc9732c3f7.png" xmlns="">0h4i0CDVWVEK9XQJP9Qd7AQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cX1M38KyZEWsFBNmSgp_YQ" Reference="Kn5SkDv2W06q8nt4BnzA8w/M4wvoe2jhU6QdLzzv8ekww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="50bc43b7-6582-4e33-b8dd-95f4df6a7e70" DesignTimeRectangle="495, 808, 47, 12" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl id='linkedOccurrencePanel' tag='TABLE' /&gt;&lt;webctrl tableRow='{0}' tag='A' /&gt;&quot;, rowOccurID)]" FuzzySelectorArgument="&lt;webctrl id='linkedOccurrencePanel' tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='' aaname='*' check:innerText='O2726-25' /&gt;" Guid="1f675b71-e576-4cae-8908-c4b176512eac" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - O2806-25: HZDAVS' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="50bc43b7-6582-4e33-b8dd-95f4df6a7e70" CvTextArea="493, 786, 70, 11" CvTextArgument="Occurrence ID" CvType="Text" DesignTimeRectangle="495, 784, 84, 16" FuzzySelectorArgument="&lt;webctrl aria-labelledby='gbox_linkedOccurrencePanel' aria-role='grid' tag='TABLE' /&gt;&lt;webctrl id='jqgh_linkedOccurrencePanel_OccurrenceID' type='' tag='DIV' class='ui-jqgrid-sortable' aaname='Occurrence ID' check:innerText='Occurrence ID' /&gt;" Guid="eeb8dda0-9258-4bed-b9b1-59767c935b53" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dad4be179ec60e859c59304e139f618c.png" xmlns="">0wpwVf7KoXUSmayVzy8ptSA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="rowOccurID" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

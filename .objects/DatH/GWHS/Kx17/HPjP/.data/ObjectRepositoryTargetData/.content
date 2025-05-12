@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pjCb5LpjTUiRH7p3OAGYXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="47c7929c-c738-49a2-9155-6bd50c68dcea" CvElementArea="628, 860, 23, 21" CvType="ArrowButton" DesignTimeRectangle="632, 862, 16, 16" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='Collapsing_SectionlinkedEreportsCollapseCollapseButton' tag='SPAN' type='' class='ui-icon ui-icon-triangle-2-s' aaname='close' check:innerText='close' /&gt;" Guid="b89b6452-c062-4615-a780-c2e58b2a7538" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - O2629-25: CAB' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="47c7929c-c738-49a2-9155-6bd50c68dcea" CvTextArea="657, 864, 10, 13" CvTextArgument="?" CvType="Text" DesignTimeRectangle="654, 862, 16, 16" FuzzySelectorArgument="&lt;webctrl parentid='Collapsing_SectionlinkedEreportsCollapse' tag='A' type='' class='ui-icon ui-icon-help2' aaname='' /&gt;" Guid="79b3eb7a-75be-425c-ac5d-c8ef276a1f6d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="13f9b6269fdb86cd4eaaff46e38c1018.png" xmlns="">0Pg-Fi7uCOUK82LnwqO3U2Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

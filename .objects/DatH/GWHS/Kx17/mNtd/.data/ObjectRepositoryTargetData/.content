@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OGbnb98u_06dKNkMajd6BQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="4181ec49-7d7f-40fa-a3e6-0492f2e00fd4" CvElementArea="1152, 900, 56, 30" CvTextArea="1161, 907, 38, 13" CvTextArgument="Close" CvType="Button" DesignTimeRectangle="1162, 907, 37, 15" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Close' class='ui-button-text' type='' parentid='BodyNonIE' tag='SPAN' check:innerText='Close' /&gt;" Guid="4bdf4650-6158-435d-b272-c0a1279890b3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - O19173-24: CAB' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4181ec49-7d7f-40fa-a3e6-0492f2e00fd4" CvElementArea="1152, 900, 56, 30" CvTextArea="1161, 907, 38, 13" CvTextArgument="Close" CvType="Button" DesignTimeRectangle="1154, 902, 53, 26" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Close' aria-role='button' type='button' tag='BUTTON' class='ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only ui-state-hover' check:innerText='Close' /&gt;" Guid="004106ef-f193-4494-b150-de1d7fb591be" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2b0ba0b449729e76f8c50d4631644083.png" xmlns="">0DCPybpzsLkCJGmmupAJsiA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

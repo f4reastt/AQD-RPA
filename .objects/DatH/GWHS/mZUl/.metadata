@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Manage Occurrence - O1997-25 ASR(1)",
+  "Type": "Screen",
+  "Id": "mZUl3OyJT0uXpiHsduiPkg",
+  "Reference": "Kn5SkDv2W06q8nt4BnzA8w/mZUl3OyJT0uXpiHsduiPkg",
+  "ParentRef": "Kn5SkDv2W06q8nt4BnzA8w/GWHSmHttckmY5GjbXiFTTA",
+  "Created": "2025-05-10T15:28:51.0029475Z",
+  "Updated": "2025-05-10T15:28:51.0029475Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

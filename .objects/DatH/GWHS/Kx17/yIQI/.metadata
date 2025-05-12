@@ -1,0 +1,14 @@
+﻿{
+  "Name": "25L138",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "yIQI9lFA2US5QrUwBOuxFQ",
+  "Reference": "Kn5SkDv2W06q8nt4BnzA8w/yIQI9lFA2US5QrUwBOuxFQ",
+  "ParentRef": "Kn5SkDv2W06q8nt4BnzA8w/Kx17-QBcNkqQHvlhoDETUA",
+  "Created": "2025-05-10T15:23:50.9053844Z",
+  "Updated": "2025-05-10T15:23:50.9053844Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

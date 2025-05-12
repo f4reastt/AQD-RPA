@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6CAhnCn4Ekqrx5VC1TU34Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="a5c364f5-6094-4edc-86c6-f96397740fd0" CvTextArea="493, 871, 54, 11" CvType="AnyWordGroup" DesignTimeRectangle="495, 871, 51, 12" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='linkedAssessmentPanel' tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='' /&gt;" Guid="9c808a2e-544d-4b46-a86e-4cd069804047" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - O2799-25: HZDAVS' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a5c364f5-6094-4edc-86c6-f96397740fd0" CvElementArea="543, 849, 13, 13" CvTextArea="493, 849, 50, 11" CvTextArgument="Assess ID" CvType="ArrowButton" DesignTimeRectangle="495, 847, 72, 16" FuzzySelectorArgument="&lt;webctrl aria-labelledby='gbox_linkedAssessmentPanel' aria-role='grid' tag='TABLE' /&gt;&lt;webctrl id='jqgh_linkedAssessmentPanel_AssessmentID' type='' tag='DIV' class='ui-jqgrid-sortable' aaname='Assess ID' check:innerText='Assess ID' /&gt;" Guid="c278cfca-69df-4e19-953b-822817e6c7c3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="394db381c337df8391165d1966fc1ce3.png" xmlns="">0l4gz35FgUk-Mtw3z779x0w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8ptI6INZqUqhbTHkxnwRew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="cea9f9a2-27f2-48de-a1c3-b807f90bac9f" CvTextArea="1041, 531, 55, 11" CvTextArgument="Diverted To" CvType="Text" DesignTimeRectangle="1042, 527, 70, 22" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl aaname=' &amp;#x9; &amp;#x9;' type='' parentid='tab-0' tag='SPAN' class='' check:innerText='Diverted To' /&gt;" Guid="5382f25a-f585-412d-9085-95c9c0593557" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - O19173-24: CAB' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2667372c39eca7e055082bb6ae49895b.png" xmlns="">0pIP0pVXKO0qdEYYN1eq98g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

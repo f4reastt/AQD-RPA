@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Tx8FKGVYWEO8lq7XrQPHWQ" Reference="Kn5SkDv2W06q8nt4BnzA8w/XRD2SFjf2UG8WPivG8UN0A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="7cee8271-ce94-4510-b051-22a0c38ea9eb" DesignTimeRectangle="587, 487, 555, 22" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='qform.37877' tag='INPUT' type='text' class='' aaname='' /&gt;" Guid="e59423a4-fb38-4b1e-9d5b-6234aefea0f0" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - O2805-25: CAB' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7cee8271-ce94-4510-b051-22a0c38ea9eb" DesignTimeRectangle="483, 491, 72, 12" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' &amp;#x9;Contact Details' type='' tag='SPAN' class='' /&gt;" Guid="2116fdf4-f814-4136-a605-56c3fc4fafef" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9856b0794337a59d9f311cb4eb37b0f8.png" xmlns="">0EMdzXPh9dkynwz6Y4sUAWA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

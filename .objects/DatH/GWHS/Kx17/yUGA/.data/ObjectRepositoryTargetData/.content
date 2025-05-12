@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8PZBPZFdrUundMsrSxs3yA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="9a0a7e45-1cf0-4a21-bf44-4c852a1c3825" CvElementArea="651, 966, 23, 21" CvType="ArrowButton" DesignTimeRectangle="655, 832, 16, 16" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='Collapsing_SectionlinkedOccurrencePanelCollapseCollapseButton' tag='SPAN' type='' class='ui-icon ui-icon-triangle-2-s' aaname='close' check:innerText='close' /&gt;" Guid="5ac90b69-ac82-4679-9f47-566990ead669" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - O2806-25: HZDAVS' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e426d74a-81e8-4b4f-9d9d-e9eb4069cc18" CvTextArea="491, 830, 146, 16" CvTextArgument="Linked Occurrences (1)" CvType="Text" DesignTimeRectangle="493, 830, 144, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='PanelTitle_linkedOccurrencePanelCollapse' tag='SPAN' type='' class='' aaname='Linked Occurrences (1)' check:innerText='Linked Occurrences (1)' /&gt;" Guid="2f4f7933-6911-496d-a549-6dcfbf5e6f94" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bfbff9adf5efe3c0f501a550a059be58.png" xmlns="">0BQDzUhNsH0OPcc9M7QhgSQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

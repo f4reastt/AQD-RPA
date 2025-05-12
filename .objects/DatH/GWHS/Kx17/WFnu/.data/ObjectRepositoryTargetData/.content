@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2vP-nmOb60azH3tPK1DmZg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence" CVScreenId="7431ce9e-5a2c-4496-9a94-7f52a8b1f6b8" DesignTimeRectangle="493, 801, 121, 17" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl id='PanelTitle_linkedEreportsCollapse' tag='SPAN' aaname='Linked eReports (0)' /&gt;" Guid="2567a754-624d-4de5-bce5-1fb4a8e3bfae" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Manage Occurrence - *: HZDAVS' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="be6a4c7e482fd5f4c65c1bf57aee6f49.png" xmlns="">05F235vW6hU6i3ZOsrWv_uQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

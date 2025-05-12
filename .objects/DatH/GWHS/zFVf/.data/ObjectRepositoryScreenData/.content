@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="_akzd4s050ioofKfmZsefA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" Selector="&lt;html app='chrome.exe' title='Manage Occurrence - O2683-25: ASR' /&gt;" Url="https://mhsafety.malaysiaairlines.com/AQDPortal/safety.aspx/Occurrence/OpenOccurrence?occurrenceId=O2683-25&amp;sourceGrid=SAF_SearchOccurrences" />
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
